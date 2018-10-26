@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-
+//tag2
 @interface NSString ()
 
 @end
