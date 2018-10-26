@@ -88,6 +88,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4E72CEA921830BF000B8CE5C /* NSString+test.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSString+test.h"; sourceTree = "<group>"; };
 		FF2649BA1D2C974000142648 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		FF2649BB1D2C974000142648 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		FF2649BD1D2C974000142648 /* NSData+ImageContentType.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSData+ImageContentType.h"; sourceTree = "<group>"; };
@@ -370,6 +371,7 @@
 				FF5C139A1D2B9D8C00A2FB9E /* UIView+LXExtension.m */,
 				FFC11BF71D2F4A81008F45A3 /* Tostal.h */,
 				FFC11BF81D2F4A81008F45A3 /* Tostal.m */,
+				4E72CEA921830BF000B8CE5C /* NSString+test.h */,
 				FF5C13681D2B949000A2FB9E /* ChooseCarBrand */,
 				FF48C63A1D2CFA44006CC6D2 /* ChooseDisplace */,
 				FF5C13641D2B931F00A2FB9E /* system */,
