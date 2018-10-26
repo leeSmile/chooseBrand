@@ -12,7 +12,7 @@
 int initCount;
 static Tostal *singleInstance;
 @implementation Tostal
-水电费
+//水电费sasdfad
 
 - (void)tostalMesg:(NSString *)mesgStr tostalTime:(int)disTime{
     _mesgStr=mesgStr;
