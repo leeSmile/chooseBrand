@@ -89,6 +89,7 @@
 
 /* Begin PBXFileReference section */
 		4E72CEA921830BF000B8CE5C /* NSString+test.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSString+test.h"; sourceTree = "<group>"; };
+		4EF1E09421ABD5C90046E2DE /* Tostal.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Tostal.h; sourceTree = "<group>"; };
 		FF2649BA1D2C974000142648 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		FF2649BB1D2C974000142648 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		FF2649BD1D2C974000142648 /* NSData+ImageContentType.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSData+ImageContentType.h"; sourceTree = "<group>"; };
@@ -181,7 +182,6 @@
 		FF9947921D2BA6720063ACDE /* ChooseCarController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChooseCarController.m; sourceTree = "<group>"; };
 		FFC11BF41D2F3D2E008F45A3 /* CarFamilyModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CarFamilyModel.h; sourceTree = "<group>"; };
 		FFC11BF51D2F3D2E008F45A3 /* CarFamilyModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CarFamilyModel.m; sourceTree = "<group>"; };
-		FFC11BF71D2F4A81008F45A3 /* Tostal.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Tostal.h; sourceTree = "<group>"; };
 		FFC11BF81D2F4A81008F45A3 /* Tostal.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Tostal.m; sourceTree = "<group>"; };
 		FFF5518A1D2E14D300CE4DF6 /* AFHTTPRequestOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFHTTPRequestOperation.h; sourceTree = "<group>"; };
 		FFF5518B1D2E14D300CE4DF6 /* AFHTTPRequestOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFHTTPRequestOperation.m; sourceTree = "<group>"; };
@@ -369,7 +369,7 @@
 				FF2649B91D2C974000142648 /* SDWebImage */,
 				FF5C13991D2B9D8C00A2FB9E /* UIView+LXExtension.h */,
 				FF5C139A1D2B9D8C00A2FB9E /* UIView+LXExtension.m */,
-				FFC11BF71D2F4A81008F45A3 /* Tostal.h */,
+				4EF1E09421ABD5C90046E2DE /* Tostal.h */,
 				FFC11BF81D2F4A81008F45A3 /* Tostal.m */,
 				4E72CEA921830BF000B8CE5C /* NSString+test.h */,
 				FF5C13681D2B949000A2FB9E /* ChooseCarBrand */,
